@@ -1,0 +1,119 @@
+[
+    {
+        "name": "John R. Mascola",
+        "id": "Z274Qz38",
+        "role": "Director",
+        "country": "USA",
+        "img": "https://www.niaid.nih.gov/sites/default/files/styles/standard-img/public/mascola-bio.png?itok=Y_zgdPxw",
+        "publications": 310,
+        "honorarium": 9500000
+    },
+    {
+        "name": "Douglas F. Nixon",
+        "id": "Z474Qd39",
+        "role": "Immunologist",
+        "country": "USA",
+        "img": "https://chavd.org/wp-content/uploads/fly-images/861/Doug-Nixon-High-Res-Image-scaled-aspect-ratio-300-300-scaled-500x0.jpg",
+        "publications": 250,
+        "honorarium": 9000000
+    },
+    {
+        "name": "Patrick Vallance",
+        "id": "H474Qx34",
+        "role": "Pharmacologist",
+        "country": "UK",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSakg7WKkTdI7798HuLXEJlCs43fLpQ2oxg&usqp=CAU",
+        "publications": 105,
+        "honorarium": 8500000
+    },
+    {
+        "name": "Shi Zhengli",
+        "id": "A474gT99",
+        "role": "Virologist ",
+        "country": "China",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxkbD78AtCxudzrL8-hgyCDJvK5QPGnP1Og&usqp=CAU",
+        "publications": 55,
+        "honorarium": 8900000
+    },
+    {
+        "name": "Marc K. Jenkins",
+        "id": "V494Qx54",
+        "role": "CD4+ T and B cell",
+        "country": "USA",
+        "img": "https://chavd.org/wp-content/uploads/fly-images/847/Marc-Jenkins-High-Res-Image-scaled-aspect-ratio-300-300-scaled-500x0.jpg",
+        "publications": 150,
+        "honorarium": 8200000
+    },
+    {
+        "name": "Glenda Gray",
+        "id": "J47UQx78",
+        "role": "Physician & Activist",
+        "country": "South African",
+        "img": "https://chavd.org/wp-content/uploads/fly-images/845/Glenda-Gray-High-Res-Image-1-scaled-aspect-ratio-300-300-scaled-500x0.jpg",
+        "publications": 300,
+        "honorarium": 8100000
+    },
+    {
+        "name": "Rino Rappuoli",
+        "id": "F471Qx66",
+        "role": "Vaccine Specialist ",
+        "country": "Italy",
+        "img": "https://chavd.org/wp-content/uploads/fly-images/850/Rino-Rappuoli-High-Res-scaled-aspect-ratio-300-300-scaled-500x0.jpg",
+        "publications": 45,
+        "honorarium": 8000000
+    },
+    {
+        "name": "Gregory A. Poland",
+        "id": "W474Qx31",
+        "role": "Internal Medicine",
+        "country": "USA",
+        "img": "https://www.mayo.edu/-/media/kcms/employees/2018/06/16/21/33/gregory-poland-10966366.jpg",
+        "publications": 405,
+        "honorarium": 7900000
+    },
+    {
+        "name": "Professor Dominic Dwyer",
+        "id": "R474Qx32",
+        "role": "Diseases specialist ",
+        "country": "Australia",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZipiEe7buTgBEHjtSS26zA_QJ4SKBHoaFUHHsOY_2o6UXTGp0wbdS1TcYHLxaobpCX64&usqp=CAU",
+        "publications": 70,
+        "honorarium": 9100000
+    },
+    {
+        "name": "Jemma Geoghegan",
+        "id": "E464Qx73",
+        "role": " Virologist",
+        "country": "New Zealand",
+        "img": "https://micro.otago.ac.nz/assets/Uploads/JemmaGeoghegan.png",
+        "publications": 51,
+        "honorarium": 9200000
+    },
+    {
+        "name": "Graham Le Gros",
+        "id": "Q476Qx44",
+        "role": "Immunologist",
+        "country": "New Zealand",
+        "img": "https://pbs.twimg.com/profile_images/978451860821491712/nsTpOpP8_400x400.jpg",
+        "publications": 75,
+        "honorarium": 9400000
+    },
+    {
+        "name": "Masaharu Isobe",
+        "id": "S474Qr91",
+        "role": "Molecular Genetics",
+        "country": "Japan",
+        "img": "https://evaweb.u-toyama.ac.jp/html/img/41",
+        "publications": 210,
+        "honorarium": 7800000
+    },
+    {
+        "name": "Beatrice H. Hahn",
+        "id": "T374bS52",
+        "role": "virologist",
+        "country": "USA",
+        "img": "https://chavd.org/wp-content/uploads/fly-images/846/Beatrice-Hahn-High-Res-scaled-aspect-ratio-300-300-scaled-500x0.jpeg",
+        "publications": 40,
+        "honorarium": 8100000
+    }
+]

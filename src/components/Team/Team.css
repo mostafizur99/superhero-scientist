@@ -1,0 +1,16 @@
+.Team{
+    margin-top: 40px;
+    border: 1px solid #0cb8b559;
+    
+}
+.team-box{
+    background-color: #0cb8b51c;
+    margin: 10px;
+    padding: 10px;
+}
+.Team li {
+    list-style: none;
+}
+.text-color{
+   color: #0cb8b6;
+}

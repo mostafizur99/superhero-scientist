@@ -1,0 +1,37 @@
+.Scientist{
+    padding-top: 40px;
+}
+.card-img{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.Scientist img{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+.card-custom{
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    font-weight: 500;
+}
+.card-custom p {
+    margin-bottom: 10px;
+}
+.text-color{
+    color: #0cb8b6;
+}
+.btn-custom {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 2px solid transparent;
+    cursor: pointer;
+    background: linear-gradient(90deg, rgba(12,184,182,1) 0%, rgba(11,145,144,1) 75%);
+    border-radius: 30px;
+    padding: 10px 15px;
+}
